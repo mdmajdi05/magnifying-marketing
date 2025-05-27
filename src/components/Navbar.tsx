@@ -53,8 +53,13 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <div className="flex-shrink-0">
             <a href="#" className="text-2xl font-bold text-blue-500">
-              <span className="text-[#00B6FF]">Web</span>
-              <span className="text-black">nox</span>
+              {/* <span className="text-[#00B6FF]">Web</span>
+              <span className="text-black">nox</span> */}
+              <img 
+                src="https://magnifyingmarketing.com/wp-content/uploads/2025/03/cropped-A1-300x95.png" 
+                alt="Magnifying Marketing"
+                className="h-12"
+              />
             </a>
           </div>
           
